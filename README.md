@@ -1,12 +1,6 @@
 # Food-Spoilage-Detection-System
 In today's world, even after so much advancement in technology, a lot of death occurs due to food poisoning. Bacteria and other harmful microorganisms can't be detected through naked eyes and by their odour. Most of the people trust their vendor and they simply purchase the contaminated food. Many of us don't have enough time to check for each and every single fruit and food. 
-Therefore we have come up with a innovative solution for all these problems.
-
-
-
-
-
-
+Therefore we have come up with an innovative solution for all these problems.
 
 
 By carefully observing the contaminated food and performing various tests on them, we have come up few conclusions:
@@ -14,10 +8,6 @@ By carefully observing the contaminated food and performing various tests on the
 2. Spoilt food produces pungent odour.
 3. Oxygen level decreases around the contaminated food as bacteria consumes more oxygen.
 4. Concentration of few gases such as Ammonia increases near the spoilt food.
-
-
-
-
 
 
 As per the solution is concerned we have built a machine learning model that will scan the images of the food and categorise them whether they are spoilt or not. 
